@@ -1,0 +1,9 @@
+.cats__container{
+	padding-top: 112px;
+	padding-left: 62px;
+	padding-right: 62px;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, 225px);
+	grid-auto-rows: 225px;
+	grid-gap: 47px;
+}
