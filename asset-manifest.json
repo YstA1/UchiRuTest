@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/UchiRuTest/static/css/main.0b440ece.css",
-    "main.js": "/UchiRuTest/static/js/main.c7c5f432.js",
+    "main.js": "/UchiRuTest/static/js/main.728becf7.js",
     "index.html": "/UchiRuTest/index.html",
     "main.0b440ece.css.map": "/UchiRuTest/static/css/main.0b440ece.css.map",
-    "main.c7c5f432.js.map": "/UchiRuTest/static/js/main.c7c5f432.js.map"
+    "main.728becf7.js.map": "/UchiRuTest/static/js/main.728becf7.js.map"
   },
   "entrypoints": [
     "static/css/main.0b440ece.css",
-    "static/js/main.c7c5f432.js"
+    "static/js/main.728becf7.js"
   ]
 }
